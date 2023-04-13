@@ -1,0 +1,2 @@
+com/fgagroup10/FishAR/BuildConfig.java
+ com.fgagroup10.FishAR.BuildConfig
